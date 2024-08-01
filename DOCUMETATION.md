@@ -1,4 +1,5 @@
 ## Functions
+`
 void Func() {
 
 }
@@ -6,3 +7,4 @@ void Func() {
 void A() {
    Func();
 }
+`
