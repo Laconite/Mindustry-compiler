@@ -46,3 +46,10 @@ __asm
 } 
 ```
 * You can wrap any Mindustry code in this construct.
+```c++
+__asm
+{
+   set a 0
+   
+} 
+```
