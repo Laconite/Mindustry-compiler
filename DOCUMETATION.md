@@ -27,7 +27,7 @@ if ()
 
 }
 ```
-* If the calculation in the condition is not equal to 0, then the body of the condition will be satisfied. 
+* If the calculation in the condition is not equal to 0, then the body of the condition will be executed.
 
 ## Loops
 ```c++
