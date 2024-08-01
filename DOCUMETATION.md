@@ -1,6 +1,6 @@
 ## Functions
 ```c++
-// 
+// This is a function called Hello
 void Hello()
 {
 
