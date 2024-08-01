@@ -5,8 +5,16 @@ void Func()
 
 }
 
-void A()
+void main()
 {
    Func();
 }
+```
+
+## Whiles
+```c++
+while () 
+{
+
+} 
 ```
