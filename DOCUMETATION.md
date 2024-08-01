@@ -49,7 +49,7 @@ __asm
 ```c++
 __asm
 {
-   set a 0
-   
+   print "Hello Mindustry!"
+   printflush message1
 } 
 ```
