@@ -1,5 +1,5 @@
 ## Functions
-`
+```c++
 void Func() {
 
 }
@@ -7,4 +7,4 @@ void Func() {
 void A() {
    Func();
 }
-`
+```
