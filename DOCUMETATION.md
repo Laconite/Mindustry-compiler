@@ -16,6 +16,14 @@ void main()
 * After the code in the called function has completed executing, we continue executing the code from where the function was called.
 
 
+## Conditions
+```c++
+if () 
+{
+
+} 
+```
+
 ## Loops
 ```c++
 while () 
