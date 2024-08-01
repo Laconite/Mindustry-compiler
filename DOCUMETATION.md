@@ -13,6 +13,8 @@ void main()
    Hello();
 }
 ```
+* After the code in the called function has completed executing, we continue executing the code from where the function was called.
+
 
 ## Loops
 ```c++
