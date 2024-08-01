@@ -31,3 +31,16 @@ while ()
 
 } 
 ```
+
+## Computations
+```c++
+a = (b + c) / d;
+```
+
+## Embed code
+```c++
+__asm
+{
+
+} 
+```
