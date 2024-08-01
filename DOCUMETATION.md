@@ -7,11 +7,11 @@ void Func()
 
 void main()
 {
-   Func();
+
 }
 ```
 
-## Whiles
+## Loops
 ```c++
 while () 
 {
