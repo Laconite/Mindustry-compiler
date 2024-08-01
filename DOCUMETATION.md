@@ -45,3 +45,4 @@ __asm
 
 } 
 ```
+* You can wrap any Mindustry code in this construct.
