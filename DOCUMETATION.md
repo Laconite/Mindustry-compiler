@@ -1,10 +1,12 @@
 ## Functions
 ```c++
-void Func() {
+void Func()
+{
 
 }
 
-void A() {
+void A()
+{
    Func();
 }
 ```
