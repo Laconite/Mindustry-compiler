@@ -58,3 +58,4 @@ __asm
 ```c++
 #include "Libs/Lib.cpp"
 ```
+* This directive can only be used in the main compiled file.
