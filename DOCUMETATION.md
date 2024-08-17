@@ -15,7 +15,7 @@ void main()
 ```
 * After the code in the called function has completed executing, we continue executing the code from where the function was called.
 
-* inline void - built into the code of another function. It is worth using when the function is called from one place or when the function is very small.
+* **inline void** - built into the code of another function. It is worth using when the function is called from one place or when the function is very small.
 
 ## Calculations
 ```c++
