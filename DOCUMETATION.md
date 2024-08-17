@@ -15,6 +15,8 @@ void main()
 ```
 * After the code in the called function has completed executing, we continue executing the code from where the function was called.
 
+* inline void
+
 ## Calculations
 ```c++
 a = (b + c) / d;
