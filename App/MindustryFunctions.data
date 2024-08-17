@@ -1,0 +1,59 @@
+58
+read        0              3   ~ ~ ~
+write       0              3   ~ ~ ~
+draw        clear          3   ~ ~ ~
+draw        color          4   ~ ~ ~ ~
+draw        col            1   ~
+draw        stroke         1   ~
+draw        line           4   ~ ~ ~ ~
+draw        rect           4   ~ ~ ~ ~
+draw        lineRect       4   ~ ~ ~ ~
+draw        poly           5   ~ ~ ~ ~ ~
+draw        linePoly       5   ~ ~ ~ ~ ~
+draw        triangle       6   ~ ~ ~ ~ ~ ~
+draw        image          5   ~ ~ ~ ~ ~
+print       0              1   ~
+drawflush   0              1   ~
+printflush  0              1   ~
+getlink     0              2   ~ ~
+control     enabled        2   ~ ~
+control     shoot          4   ~ ~ ~ ~
+control     shootp         3   ~ ~ ~
+control     config         2   ~ ~
+control     color          2   ~ ~
+radar       0              7   ~ any any ~ ~ ~ ~
+radar       0              7   ~ ~ any ~ ~ ~ ~
+radar       0              7   ~ ~ ~ ~ ~ ~ ~
+sensor      0              3   ~ ~ ~
+lookup      0              3   ~ ~ ~
+packcolor   0              5   ~ ~ ~ ~ ~
+wait        0              1   ~
+stop        0              0
+ubind       0              1   ~
+ucontrol    idle           0
+ucontrol    stop           0
+ucontrol    move           2   ~ ~
+ucontrol    approach       3   ~ ~ ~
+ucontrol    pathfind       2   ~ ~
+ucontrol    autoPathfind   0 
+ucontrol    boost          1   ~
+ucontrol    target         3   ~ ~ ~
+ucontrol    targetp        2   ~ ~
+ucontrol    itemDrop       2   ~ ~
+ucontrol    itemTake       3   ~ ~ ~
+ucontrol    payDrop        0
+ucontrol    payTake        1   ~
+ucontrol    payEnter       0
+ucontrol    mine           2   ~ ~
+ucontrol    flag           1   ~
+ucontrol    build          5   ~ ~ ~ ~ ~
+ucontrol    getBlock       5   ~ ~ ~ ~ ~
+ucontrol    within         4   ~ ~ ~ ~
+ucontrol    unbind         0
+uradar      0              7   ~ any any ~ ~ ~ ~
+uradar      0              7   ~ ~ any ~ ~ ~ ~
+uradar      0              7   ~ ~ ~ ~ ~ ~ ~
+ulocate     ore            6   core 0 ~ ~ ~ ~
+ulocate     building       7   ~ ~ 0 ~ ~ ~ ~
+ulocate     spawn          7   core 0 0 ~ ~ ~ ~
+ulocate     damaged        7   core 0 0 ~ ~ ~ ~
