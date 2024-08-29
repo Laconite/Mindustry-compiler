@@ -37,6 +37,11 @@ while ()
 {
 
 } 
+
+do
+{
+
+} while ()
 ```
 * If the calculation in the loop condition is not equal to 0, then the body of the loop will be executed.
 
